@@ -22,11 +22,13 @@ p{
 }
 .email {text-decoration: none;
 	background-color: rgba(204,0,0, 0.7);
-	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-bottom: 50;
 	color: white;
 	font-size: 20px;
 	padding: 10px 15px 10px 15px;
 	border-radius: 5px;
+	display:inline-block;
 }
 .email: hover{
 	background-color: green;
